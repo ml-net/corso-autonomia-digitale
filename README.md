@@ -22,11 +22,11 @@ Il programma è organizzato in otto incontri:
 |---|---|---|
 | 1 | **Capire** | Che cosa sta succedendo? |
 | 2 | **Gestire** | Dove sono le mie cose? |
-| 3 | **Valutare** | Posso fidarmi di quello che trovo? |
-| 4 | **Identificarsi** | Sei davvero tu? |
-| 5 | **Proteggersi** | Questo messaggio è vero? |
-| 6 | **Conservare** | Dov'è davvero quella foto? |
-| 7 | **Agire** | Devo fare una cosa online |
+| 3 | **Valutare** | Che cosa posso davvero concludere? |
+| 4 | **Identificare** | Come fa un servizio a riconoscermi? |
+| 5 | **Proteggere** | Che cosa devo proteggere nella mia vita digitale, e come posso farlo? |
+| 6 | **Conservare** | Dove sono davvero le mie foto, i miei contatti, i miei documenti? |
+| 7 | **Agire** | Devo fare una cosa che non ho mai fatto online: da dove comincio? |
 | 8 | **Usare criticamente l'AI** | Posso chiederlo all'intelligenza artificiale? |
 
 ## Materiali ed esercizi
