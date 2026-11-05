@@ -27,7 +27,7 @@ Il programma è organizzato in otto incontri:
 | 5 | **Proteggere** | Che cosa devo proteggere nella mia vita digitale, e come posso farlo? |
 | 6 | **Conservare** | Dove sono davvero le mie foto, i miei contatti, i miei documenti? |
 | 7 | **Agire** | Devo fare una cosa che non ho mai fatto online: da dove comincio? |
-| 8 | **Usare criticamente l'AI** | Posso chiederlo all'intelligenza artificiale? |
+| 8 | **Usare criticamente l'AI** | Con chi, o con che cosa, sto parlando quando uso l'AI? |
 
 ## Materiali ed esercizi
 
